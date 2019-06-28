@@ -1,0 +1,12 @@
+{
+  "name": "react-webpack-setup",
+  "version": "1.0.0",
+  "description": "Setup React Projects with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "webpack", "configuration", "react", "tooling"],
+  "author": "Ahmed Abdulrahman",
+  "license": "ISC"
+}
