@@ -6,7 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react", "webpack", "configuration", "react", "tooling"],
+  "keywords": [
+    "react",
+    "webpack",
+    "configuration",
+    "react",
+    "tooling"
+  ],
   "author": "Ahmed Abdulrahman",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code2gether/react-webpack-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/code2gether/react-webpack-setup/issues"
+  },
+  "homepage": "https://github.com/code2gether/react-webpack-setup#readme"
 }
